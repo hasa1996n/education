@@ -1,0 +1,15 @@
+change file mode 
+
+sudo chmod number -R filename 
+
+read=4 , write =2,execute=1
+
+_________________________________
+
+
+
+
+
+
+
+
